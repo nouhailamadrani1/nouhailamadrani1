@@ -5,16 +5,15 @@
   <img src="img/profil.png" alt="Nouhaila's Profile Image" width="200"/>
 </p>
 
-- 🔭 Currently learning at YouCode, actively engaged in hands-on learning by doing. Mastering Java, Angular, JEE, Spring, and Spring Boot. Excited to apply my knowledge to real projects!
+- 🔭 Currently learning at YouCode **actively engaged in hands-on learning by doing. Mastering Java, Angular, JEE, Spring, and Spring Boot. Excited to apply my knowledge to real projects!**
 
-- 🌱 Immersed in learning and working with Java, Angular, JEE, Spring, and Spring Boot. Exploring these technologies fuels my passion for crafting innovative solutions.
+- 🌱 Currently, I'm immersed in learning and working with **Java, Angular, JEE, Spring, and Spring Boot. Exploring these technologies fuels my passion for crafting innovative solutions.**
 
-- 🚀 What I Do: Love building everything from the back-end to the front-end. Create RESTful APIs in Java and design dynamic user interfaces with Angular. Goal is to make scalable and efficient applications.
+- 🚀 What I Do **I love building everything from the back-end to the front-end. I create RESTful APIs in Java and design dynamic user interfaces with Angular. My goal is to make scalable and efficient applications.**
 
-- 📚 Continuous Learning: In this ever-evolving tech landscape, I believe in the importance of continuous learning. Whether it's exploring new frameworks, adopting best practices, or diving into the latest industry trends, I am committed to staying ahead of the curve.
+- 📚 Continuous Learning **In this ever-evolving tech landscape, I believe in the importance of continuous learning. Whether it's exploring new frameworks, adopting best practices, or diving into the latest industry trends, I am committed to staying ahead of the curve.**
 
-- 📫 How to reach me: [nouhailamadrani2022@gmail.com](mailto:nouhailamadrani2022@gmail.com)
-
+- 📫 How to reach me **nouhailamadrani2022@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/nouhailamadrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nouhailamadrani" height="30" width="40" /></a>
