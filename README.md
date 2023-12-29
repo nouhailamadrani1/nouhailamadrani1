@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate full-stack developer with a focus on Java and Angular 💻 .</h3>
 
 <p align="center">
-  <img src="https://www.pinterest.fr/pin/996069642587149975/" alt="Nouhaila's Profile Image" width="200"/>
+  <img src="img/profil.png" alt="Nouhaila's Profile Image" width="200"/>
 </p>
 
 - 🔭 Currently learning at YouCode **actively engaged in hands-on learning by doing. Mastering Java, Angular, JEE, Spring, and Spring Boot. Excited to apply my knowledge to real projects!**
