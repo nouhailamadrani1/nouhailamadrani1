@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nouhaila</h1>
-<h3 align="center">Passionate full-stack developer with a focus on Java and Angular 💻</h3>
+<h3 align="center">Passionate full-stack developer with a focus on Java and React | Angular</h3>
 
 <p align="center">
   <img src="img/profil.png" alt="Nouhaila's Profile Image" width="200"/>
 </p>
 
-- 🔭 Currently learning at YouCode **actively engaged in hands-on learning by doing. Mastering Java, Angular, JEE, Spring, and Spring Boot. Excited to apply my knowledge to real projects!**
+- 🔭 Currently learning at YouCode **actively engaged in hands-on learning by doing. Mastering Java, React, Angular, JEE, Spring, and Spring Boot. Excited to apply my knowledge to real projects!**
 
 - 🌱 Currently, I'm immersed in learning and working with **Java, Angular, JEE, Spring, and Spring Boot. Exploring these technologies fuels my passion for crafting innovative solutions.**
 
